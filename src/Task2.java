@@ -1,3 +1,5 @@
+package Cognifyz_Tasks.src;
+
 public class Task2 {
     public static void main(String[] args) {
         int n = 5;

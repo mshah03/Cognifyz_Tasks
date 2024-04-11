@@ -1,3 +1,5 @@
+package Cognifyz_Tasks.src;
+
 import java.util.Scanner;
 
 public class Task4 {

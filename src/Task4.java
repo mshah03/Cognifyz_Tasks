@@ -12,6 +12,7 @@ public class Task4 {
         System.out.println("1. Celsius to Fahrenheit");
         System.out.println("2. Fahrenheit to Celsius");
 
+        System.out.print("\nEnter your choice: ");
         int choice = scanner.nextInt();
 
         switch (choice) {
